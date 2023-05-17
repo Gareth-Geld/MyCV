@@ -38,8 +38,8 @@ The site is a simple display of cards that fly to the font of the screen for eas
 
 ## Examples
 This is what the page looks like : 
-![Example1](/Readme/SitePage.png) - example of what site looks like without hover
-![Example2](/Readme/Card1.png) - example of what site looks like with hover
+![Example1](/README/SitePage.png) - example of what site looks like without hover
+![Example2](/README/Card1.png) - example of what site looks like with hover
 
 
 ## Credits
